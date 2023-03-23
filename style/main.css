@@ -328,11 +328,15 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 55px; }
-  .tile.tile-2 .tile-inner {
-    background: #eee4da;
+ .tile.tile-2 .tile-inner {
+    background: url("https://th.bing.com/th/id/R.3326ed699c2b1ac7abc4b410b4236f5f?rik=hLtiZnW7TE8sAQ&riu=http%3a%2f%2fimg.zcool.cn%2fcommunity%2f01d27d564c85686ac7251c947a7364.jpg%401280w_1l_2o_100sh.jpg&ehk=Z9YdKfrxIbxhWUHfnj2KR8AIFbUifE6tIActcZcmVD8%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url("https://images-na.ssl-images-amazon.com/images/I/61I8XAvAnAL._RI_.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
